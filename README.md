@@ -2,27 +2,7 @@
 
 This repository describes how new projects are created under the OpenHands GitHub organization and how they progress toward becoming officially supported.
 
-## Project Status Badges
-
-All Sandbox and Incubator projects must display their status in their README. Copy the appropriate badge below:
-
-**Sandbox**
-```md
-[![Project Status: Sandbox](https://img.shields.io/badge/status-sandbox-yellow)](https://github.com/OpenHands/incubator-program)
-```
-[![Project Status: Sandbox](https://img.shields.io/badge/status-sandbox-yellow)](https://github.com/OpenHands/incubator-program)
-
-**Incubator**
-```md
-[![Project Status: Incubator](https://img.shields.io/badge/status-incubator-blue)](https://github.com/OpenHands/incubator-program)
-```
-[![Project Status: Incubator](https://img.shields.io/badge/status-incubator-blue)](https://github.com/OpenHands/incubator-program)
-
-**Graduated**
-```md
-[![Project Status: Graduated](https://img.shields.io/badge/status-graduated-green)](https://github.com/OpenHands/incubator-program)
-```
-[![Project Status: Graduated](https://img.shields.io/badge/status-graduated-green)](https://github.com/OpenHands/incubator-program)
+For badge usage and copy-paste README snippets, see docs/badges.md.
 
 ## Project Classes
 
