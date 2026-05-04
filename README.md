@@ -22,7 +22,7 @@ See [docs/lifecycle.md](docs/lifecycle.md) for full requirements and the graduat
 
 | Project | Status | Owner | Description |
 |---|---|---|---|
-| _(add projects here)_ | | | |
+| Context Layer | Incubator | Graham Neubig | Centralized tool and knowledge connector for agents |
 
 ## Questions?
 
