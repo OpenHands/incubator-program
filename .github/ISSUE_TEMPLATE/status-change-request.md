@@ -1,6 +1,6 @@
 ---
 name: Status Change Request
-about: Request a change in project status (Sandbox → Incubator → Graduated)
+about: Request a change in project status (Alpha → Beta → Stable)
 title: "[Status Change] <project name>: <current status> → <target status>"
 labels: status-change-request
 assignees: ''
@@ -9,15 +9,15 @@ assignees: ''
 ## Project
 
 **Repo**: OpenHands/<repo-name>
-**Current status**: Sandbox / Incubator / Graduated _(delete as appropriate)_
-**Requested status**: Sandbox / Incubator / Graduated _(delete as appropriate)_
+**Current status**: Alpha / Beta / Stable _(delete as appropriate)_
+**Requested status**: Alpha / Beta / Stable _(delete as appropriate)_
 **Project owner**: @<github-username>
 
 ## Requirements Checklist
 
 _Complete the checklist for your target class. Delete rows that don't apply._
 
-### Incubator
+### Beta
 - [ ] LICENSE present
 - [ ] README present with status badge
 - [ ] Tests added
@@ -25,8 +25,8 @@ _Complete the checklist for your target class. Delete rows that don't apply._
 - [ ] Documentation added in `docs/`
 - [ ] Slack `#proj-<name>` channel created
 
-### Graduated
-- [ ] All Incubator requirements met
+### Stable
+- [ ] All Beta requirements met
 - [ ] In production or significant user base (describe below)
 - [ ] SLO acknowledged by project owner
 

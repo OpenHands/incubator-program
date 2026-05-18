@@ -4,7 +4,7 @@ This document describes the requirements for each project class and the process 
 
 ## Requirements by Class
 
-| Requirement | Sandbox | Incubator | Graduated |
+| Requirement | Alpha | Beta | Stable |
 |---|---|---|---|
 | `LICENSE` | ✅ | ✅ | ✅ |
 | `README` | ✅ | ✅ | ✅ |
@@ -30,17 +30,17 @@ Tech council must also approve any change between open and closed source, at any
 The following illustrates a typical project journey:
 
 1. **Robert** creates a kanban-style interface for the agent-server. He puts it in a new private repo at `OpenHands/kanban`.
-2. Robert wants to socialize it with the community. He requests Tech Council approval to open source it as a **Sandbox** project. Tech Council asks him to add a `LICENSE` and status badge to the README.
+2. Robert wants to socialize it with the community. He requests Tech Council approval to open source it as an **Alpha** project. Tech Council asks him to add a `LICENSE` and status badge to the README.
 3. A small number of community members start using it regularly.
-4. Robert requests **Incubator** status. Tech Council rejects based on code quality concerns.
+4. Robert requests **Beta** status. Tech Council rejects based on code quality concerns.
 5. Robert spends ~1 day improving the project: runs a `codereview-roasted` architecture review, fixes glaring issues, adds comprehensive tests, and adds a `docs/` folder.
 6. Robert reapplies. Tech Council approves.
 7. Months later, the kanban view is incorporated into the main OpenHands UI.
-8. Tech Council recognizes the production usage and moves the project to **Graduated**.
+8. Tech Council recognizes the production usage and moves the project to **Stable**.
 
-## SLO (Graduated Projects)
+## SLO (Stable Projects)
 
-Graduated projects must maintain the following SLO:
+Stable projects must maintain the following SLO:
 
 - **Critical bugs**: acknowledged within 2 business days, resolved within 1 week.
 - **Security issues**: acknowledged within 1 business day, resolved within 72 hours.

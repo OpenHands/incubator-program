@@ -1,39 +1,39 @@
 # Badges and status indicators
 
-All Sandbox and Incubator projects must display their status badge in their README. Copy the appropriate snippet below.
+All Alpha and Beta projects must display their status badge in their README. Copy the appropriate snippet below.
 
-## Sandbox
+## Alpha
 
 ```md
 > [!WARNING]
-> This project is in the **Sandbox** phase. It may be vibecoded, untested, or out of date. OpenHands takes no responsibility for the code or its support. [Learn more](https://github.com/OpenHands/incubator-program).
+> This project is in the **Alpha** phase. It may be vibecoded, untested, or out of date. OpenHands takes no responsibility for the code or its support. [Learn more](https://github.com/OpenHands/incubator-program).
 
-[![Project Status: Sandbox](https://img.shields.io/badge/status-sandbox-yellow)](https://github.com/OpenHands/incubator-program)
+[![Project Status: Alpha](https://img.shields.io/badge/status-alpha-yellow)](https://github.com/OpenHands/incubator-program)
 ```
 
 This renders as:
 
 > [!WARNING]
-> This project is in the **Sandbox** phase. It may be vibecoded, untested, or out of date. OpenHands takes no responsibility for the code or its support. [Learn more](https://github.com/OpenHands/incubator-program).
+> This project is in the **Alpha** phase. It may be vibecoded, untested, or out of date. OpenHands takes no responsibility for the code or its support. [Learn more](https://github.com/OpenHands/incubator-program).
 
-[![Project Status: Sandbox](https://img.shields.io/badge/status-sandbox-yellow)](https://github.com/OpenHands/incubator-program)
-
----
-
-## Incubator
-
-```md
-[![Project Status: Incubator](https://img.shields.io/badge/status-incubator-blue)](https://github.com/OpenHands/incubator-program)
-```
-
-[![Project Status: Incubator](https://img.shields.io/badge/status-incubator-blue)](https://github.com/OpenHands/incubator-program)
+[![Project Status: Alpha](https://img.shields.io/badge/status-alpha-yellow)](https://github.com/OpenHands/incubator-program)
 
 ---
 
-## Graduated
+## Beta
 
 ```md
-[![Project Status: Graduated](https://img.shields.io/badge/status-graduated-green)](https://github.com/OpenHands/incubator-program)
+[![Project Status: Beta](https://img.shields.io/badge/status-beta-blue)](https://github.com/OpenHands/incubator-program)
 ```
 
-[![Project Status: Graduated](https://img.shields.io/badge/status-graduated-green)](https://github.com/OpenHands/incubator-program)
+[![Project Status: Beta](https://img.shields.io/badge/status-beta-blue)](https://github.com/OpenHands/incubator-program)
+
+---
+
+## Stable
+
+```md
+[![Project Status: Stable](https://img.shields.io/badge/status-stable-green)](https://github.com/OpenHands/incubator-program)
+```
+
+[![Project Status: Stable](https://img.shields.io/badge/status-stable-green)](https://github.com/OpenHands/incubator-program)
