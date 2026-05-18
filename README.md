@@ -8,9 +8,9 @@ For badge usage and copy-paste README snippets, see docs/badges.md.
 
 | Class | Description |
 |---|---|
-| **Sandbox** | Experimental phase. May be vibecoded, untested, or out of date. No official support. |
-| **Incubator** | Valuable to a small number of users. Clear project owner. Has passed code quality audit. Best-effort support. |
-| **Graduated** | In production or used by a significant number of users. Maintained SLO for security issues and critical bugs. |
+| **Alpha** | Experimental phase. May be vibecoded, untested, or out of date. No official support. |
+| **Beta** | Valuable to a small number of users. Clear project owner. Has passed code quality audit. Best-effort support. |
+| **Stable** | In production or used by a significant number of users. Maintained SLO for security issues and critical bugs. |
 
 All projects must live in the OpenHands organization. Projects at any stage may be open or closed source.
 
@@ -22,7 +22,7 @@ See [docs/lifecycle.md](docs/lifecycle.md) for full requirements and the graduat
 
 | Project | Status | Owner | Description |
 |---|---|---|---|
-| Context Layer | Incubator | Graham Neubig | Centralized tool and knowledge connector for agents |
+| Context Layer | Beta | Graham Neubig | Centralized tool and knowledge connector for agents |
 | _(add projects here)_ | | | |
 
 ## Questions?
